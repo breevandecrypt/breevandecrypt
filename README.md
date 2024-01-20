@@ -4,6 +4,8 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]()
+
+
 - <b>Active Directory Home Lab</b>
 
 - <b>PowerShell</b>
@@ -14,7 +16,10 @@
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]()
+ <h2>👨‍💻 Certifications:</h2>
 
+ - Simply Cyber School Definitive GRC Analyst Masterclass
+ - ISC2 Certified in Cybersecurity
 
 <h2> 🤳 Connect with me:</h2>
 
